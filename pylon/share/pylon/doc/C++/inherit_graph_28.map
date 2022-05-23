@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_basler___instant_camera_params_1_1_c_instant_camera_params___params__v6__3__0.html" title="A parameter class containing all parameters as members that are available for Instant Camera..." alt="" coords="5,5,295,47"/>
+<area shape="rect" id="node2" href="$class_basler___instant_camera_params_1_1_c_instant_camera_params___params.html" title="A parameter class containing all parameters as members that are available for Instant Camera..." alt="" coords="343,5,580,47"/>
+<area shape="rect" id="node3" href="$class_pylon_1_1_c_instant_camera.html" title="Provides convenient access to a camera device. " alt="" coords="670,13,838,39"/>
+<area shape="rect" id="node4" href="$class_pylon_1_1_c_device_specific_instant_camera_t.html" title="Pylon::CDeviceSpecificInstant\lCameraT\&lt; CBaslerUniversalInstant\lCameraTraits \&gt;" alt="" coords="928,70,1175,126"/>
+<area shape="rect" id="node6" href="$class_pylon_1_1_c_device_specific_instant_camera_t.html" title="Implementation Detail: Header only implementation class for creating device specific Instant Camera c..." alt="" coords="947,5,1156,47"/>
+<area shape="rect" id="node5" href="$class_pylon_1_1_c_basler_universal_instant_camera.html" title="Extends the CInstantCamera by universal parameter interface classes combining all interface types..." alt="" coords="1223,77,1439,119"/>
+<area shape="rect" id="node7" href="$class_basler___universal_camera_params_1_1_c_universal_camera_params___params__v6__3__0.html" title="A parameter class containing all parameters as members that are available for Basler camera devices..." alt="" coords="348,70,575,126"/>
+<area shape="rect" id="node8" href="$class_basler___universal_camera_params_1_1_c_universal_camera_params___params.html" title="A parameter class containing all parameters as members that are available for Basler camera devices..." alt="" coords="628,77,880,119"/>
+<area shape="rect" id="node9" href="$struct_pylon_1_1_c_basler_universal_instant_camera_traits.html" title="Lists all the types used by the universal instant camera class. " alt="" coords="646,143,862,184"/>
+</map>

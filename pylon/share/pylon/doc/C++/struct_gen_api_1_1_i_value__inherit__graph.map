@@ -1,0 +1,50 @@
+<map id="GenApi::IValue" name="GenApi::IValue">
+<area shape="rect" id="node3" href="$struct_gen_api_1_1_i_boolean.html" title="Interface for Boolean properties. " alt="" coords="342,1581,473,1607"/>
+<area shape="rect" id="node6" href="$struct_gen_api_1_1_i_category.html" title="Gives access to a category node. " alt="" coords="339,1530,476,1557"/>
+<area shape="rect" id="node7" href="$struct_gen_api_1_1_i_command.html" title="GenApi::ICommand" alt="" coords="334,1783,481,1810"/>
+<area shape="rect" id="node10" href="$struct_gen_api_1_1_i_enum_entry.html" title="Interface of single enum value. " alt="" coords="333,1631,482,1658"/>
+<area shape="rect" id="node11" href="$struct_gen_api_1_1_i_enumeration.html" title="Interface for enumeration properties. " alt="" coords="327,898,488,925"/>
+<area shape="rect" id="node40" href="$struct_gen_api_1_1_i_float.html" title="Interface for float properties. " alt="" coords="352,1682,463,1709"/>
+<area shape="rect" id="node42" href="$struct_gen_api_1_1_i_integer.html" title="Interface for integer properties. " alt="" coords="345,1834,469,1861"/>
+<area shape="rect" id="node44" href="$struct_gen_api_1_1_i_register.html" title="Interface for registers. " alt="" coords="342,1885,473,1911"/>
+<area shape="rect" id="node46" href="$struct_gen_api_1_1_i_string.html" title="Interface for string properties. " alt="" coords="349,1935,466,1962"/>
+<area shape="rect" id="node48" href="$struct_pylon_1_1_i_value_ex.html" title="Extends the GenApi::IValue interface with convenience methods. " alt="" coords="349,1733,466,1759"/>
+<area shape="rect" id="node2" href="$struct_gen_api_1_1_i_base.html" title="Base interface common to all nodes. " alt="" coords="5,1707,116,1734"/>
+<area shape="rect" id="node4" href="$struct_pylon_1_1_i_boolean_ex.html" title="Extends the GenApi::IBoolean interface with convenience methods. " alt="" coords="553,1631,687,1658"/>
+<area shape="rect" id="node5" href="$class_pylon_1_1_c_boolean_parameter.html" title="CBooleanParameter class used to simplify access to GenApi parameters. " alt="" coords="791,1733,983,1759"/>
+<area shape="rect" id="node8" href="$struct_pylon_1_1_i_command_ex.html" title="Extends the GenApi::ICommand interface with convenience methods. " alt="" coords="545,1783,695,1810"/>
+<area shape="rect" id="node9" href="$class_pylon_1_1_c_command_parameter.html" title="CCommandParameter class used to simplify access to GenApi parameters. " alt="" coords="784,1783,991,1810"/>
+<area shape="rect" id="node12" href="$struct_gen_api_1_1_i_enumeration_t.html" title="Interface for enumeration properties. " alt="" coords="536,832,704,873"/>
+<area shape="rect" id="node13" href="$struct_pylon_1_1_i_enumeration_ex.html" title="Extends the GenApi::IEnumeration interface with convenience methods. " alt="" coords="538,898,702,925"/>
+<area shape="rect" id="node14" href="$struct_pylon_1_1_i_enum_parameter_t.html" title="Pylon::IEnumParameterT\l\&lt; AccessModeEnums \&gt;" alt="" coords="798,397,977,439"/>
+<area shape="rect" id="node15" href="$struct_pylon_1_1_i_enum_parameter_t.html" title="Pylon::IEnumParameterT\l\&lt; AcquisitionFrameRateEnumEnums \&gt;" alt="" coords="752,463,1023,504"/>
+<area shape="rect" id="node16" href="$struct_pylon_1_1_i_enum_parameter_t.html" title="Pylon::IEnumParameterT\l\&lt; AcquisitionModeEnums \&gt;" alt="" coords="787,528,987,569"/>
+<area shape="rect" id="node17" href="$struct_pylon_1_1_i_enum_parameter_t.html" title="Pylon::IEnumParameterT\l\&lt; AcquisitionStatusSelectorEnums \&gt;" alt="" coords="757,593,1017,635"/>
+<area shape="rect" id="node18" href="$struct_pylon_1_1_i_enum_parameter_t.html" title="Pylon::IEnumParameterT\l\&lt; AreaTriggerModeEnums \&gt;" alt="" coords="786,659,989,700"/>
+<area shape="rect" id="node19" href="$struct_pylon_1_1_i_enum_parameter_t.html" title="Pylon::IEnumParameterT\l\&lt; AutoFunctionAOISelectorEnums \&gt;" alt="" coords="760,724,1015,765"/>
+<area shape="rect" id="node20" href="$struct_pylon_1_1_i_enum_parameter_t.html" title="Pylon::IEnumParameterT\l\&lt; AutoFunctionProfileEnums \&gt;" alt="" coords="778,789,997,831"/>
+<area shape="rect" id="node21" href="$struct_pylon_1_1_i_enum_parameter_t.html" title="Pylon::IEnumParameterT\l\&lt; AutoFunctionROISelectorEnums \&gt;" alt="" coords="761,855,1014,896"/>
+<area shape="rect" id="node22" href="$struct_pylon_1_1_i_enum_parameter_t.html" title="Pylon::IEnumParameterT\l\&lt; AutoTonalRangeAdjustmentSelector\lEnums \&gt;" alt="" coords="754,919,1021,975"/>
+<area shape="rect" id="node23" href="$struct_pylon_1_1_i_enum_parameter_t.html" title="Pylon::IEnumParameterT\l\&lt; AutoTonalRangeModeSelector\lEnums \&gt;" alt="" coords="774,999,1001,1055"/>
+<area shape="rect" id="node24" href="$struct_pylon_1_1_i_enum_parameter_t.html" title="Pylon::IEnumParameterT\l\&lt; BalanceRatioSelectorEnums \&gt;" alt="" coords="771,1079,1003,1120"/>
+<area shape="rect" id="node25" href="$struct_pylon_1_1_i_enum_parameter_t.html" title="Pylon::IEnumParameterT\l\&lt; BalanceWhiteAutoEnums \&gt;" alt="" coords="781,1144,993,1185"/>
+<area shape="rect" id="node26" href="$struct_pylon_1_1_i_enum_parameter_t.html" title="Pylon::IEnumParameterT\l\&lt; BandwidthReserveModeEnums \&gt;" alt="" coords="764,1209,1011,1251"/>
+<area shape="rect" id="node27" href="$struct_pylon_1_1_i_enum_parameter_t.html" title="Pylon::IEnumParameterT\l\&lt; BconClockFrequencyEnums \&gt;" alt="" coords="774,1275,1001,1316"/>
+<area shape="rect" id="node28" href="$struct_pylon_1_1_i_enum_parameter_t.html" title="Pylon::IEnumParameterT\l\&lt; BconPixelsPerClockCycleEnums \&gt;" alt="" coords="761,1340,1014,1381"/>
+<area shape="rect" id="node29" href="$struct_pylon_1_1_i_enum_parameter_t.html" title="Pylon::IEnumParameterT\l\&lt; BinningHorizontalModeEnums \&gt;" alt="" coords="766,1405,1009,1447"/>
+<area shape="rect" id="node30" href="$struct_pylon_1_1_i_enum_parameter_t.html" title="Pylon::IEnumParameterT\l\&lt; BinningModeHorizontalEnums \&gt;" alt="" coords="766,1471,1009,1512"/>
+<area shape="rect" id="node31" href="$struct_pylon_1_1_i_enum_parameter_t.html" title="Pylon::IEnumParameterT\l\&lt; BinningModeVerticalEnums \&gt;" alt="" coords="775,1536,1000,1577"/>
+<area shape="rect" id="node32" href="$struct_pylon_1_1_i_enum_parameter_t.html" title="Pylon::IEnumParameterT\l\&lt; BinningSelectorEnums \&gt;" alt="" coords="789,1601,985,1643"/>
+<area shape="rect" id="node33" href="$struct_pylon_1_1_i_enum_parameter_t.html" title="Pylon::IEnumParameterT\l\&lt; BinningVerticalModeEnums \&gt;" alt="" coords="775,1667,1000,1708"/>
+<area shape="rect" id="node34" href="$struct_pylon_1_1_i_enum_parameter_t.html" title="Pylon::IEnumParameterT\l\&lt; BitAlignmentEnums \&gt;" alt="" coords="798,5,977,47"/>
+<area shape="rect" id="node35" href="$struct_pylon_1_1_i_enum_parameter_t.html" title="Pylon::IEnumParameterT\l\&lt; BlackLevelSelectorEnums \&gt;" alt="" coords="779,71,995,112"/>
+<area shape="rect" id="node36" href="$struct_pylon_1_1_i_enum_parameter_t.html" title="Pylon::IEnumParameterT\l\&lt; BLCSerialPortBaudRateEnums \&gt;" alt="" coords="765,136,1010,177"/>
+<area shape="rect" id="node37" href="$struct_pylon_1_1_i_enum_parameter_t.html" title="Pylon::IEnumParameterT\l\&lt; BLCSerialPortParityEnums \&gt;" alt="" coords="778,201,997,243"/>
+<area shape="rect" id="node38" href="$struct_pylon_1_1_i_enum_parameter_t.html" title="Pylon::IEnumParameterT\l\&lt; BLCSerialPortSourceEnums \&gt;" alt="" coords="773,267,1001,308"/>
+<area shape="rect" id="node39" href="$struct_pylon_1_1_i_enum_parameter_t.html" title="Pylon::IEnumParameterT\l\&lt; BLCSerialPortStopBitsEnums \&gt;" alt="" coords="769,332,1006,373"/>
+<area shape="rect" id="node41" href="$struct_pylon_1_1_i_float_ex.html" title="Extends the GenApi::IFloat interface with convenience methods. " alt="" coords="563,1682,677,1709"/>
+<area shape="rect" id="node43" href="$struct_pylon_1_1_i_integer_ex.html" title="Extends the GenApi::IInteger interface with convenience methods. " alt="" coords="557,1834,683,1861"/>
+<area shape="rect" id="node45" href="$struct_pylon_1_1_i_register_ex.html" title="Extends the GenApi::IRegister interface with convenience methods. " alt="" coords="553,1885,687,1911"/>
+<area shape="rect" id="node47" href="$struct_pylon_1_1_i_string_ex.html" title="Extends the GenApi::IString interface with convenience methods. " alt="" coords="560,1935,680,1962"/>
+<area shape="rect" id="node49" href="$class_pylon_1_1_c_parameter.html" title="CParameter class used to simplify access to GenApi parameters. " alt="" coords="550,1733,690,1759"/>
+</map>

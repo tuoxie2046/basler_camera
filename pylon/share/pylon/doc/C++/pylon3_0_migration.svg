@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generiert durch Microsoft Visio, SVG Export pylon3_0_migration.svg Zeichenblatt-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="6.24182in" height="3.97804in" viewBox="0 0 449.411 286.419" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st10">
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#cdcdcd;stroke:#4d4d4d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.12}
+		.st2 {fill:#000000;font-family:Arial;font-size:0.666664em}
+		.st3 {fill:#e6e6e6;stroke:#4d4d4d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.12}
+		.st4 {fill:#d8d86d;stroke:#4d4d4d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.12}
+		.st5 {fill:#f2f2f2;stroke:#4d4d4d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.12}
+		.st6 {fill:#b9e2b8;stroke:#4d4d4d;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.12}
+		.st7 {font-size:1em}
+		.st8 {fill:#d78a82;stroke:#4d4d4d;stroke-dasharray:0,0.6;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.12}
+		.st9 {fill:#b9e2b8;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st10 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Zeichenblatt-1</title>
+		<g id="shape24-1" transform="translate(0.06,-0.06)">
+			<title>Rectangle.24</title>
+			<desc>pylon 3.0</desc>
+			<rect x="0" y="35.5531" width="449.291" height="250.866" class="st1"/>
+			<text x="208.41" y="46.75" class="st2">pylon 3.0</text>		</g>
+		<g id="shape21-4" transform="translate(11.3986,-11.3986)">
+			<title>Rectangle.21</title>
+			<desc>pylon 2.x Compatible API</desc>
+			<rect x="0" y="141.852" width="360" height="144.567" class="st3"/>
+			<text x="135.09" y="153.05" class="st2">pylon 2.x Compatible API</text>		</g>
+		<g id="shape17-7" transform="translate(21.3198,-21.3198)">
+			<title>Rectangle.17</title>
+			<desc>Low Level API</desc>
+			<rect x="0" y="168.781" width="148.819" height="117.638" class="st1"/>
+			<text x="48.84" y="179.98" class="st2">Low Level API</text>		</g>
+		<g id="shape19-10" transform="translate(31.1475,-98.4222)">
+			<title>Rectangle.19</title>
+			<desc>Camera Classes</desc>
+			<rect x="0" y="263.742" width="129.164" height="22.6772" class="st4"/>
+			<text x="35.02" y="277.48" class="st2">Camera Classes</text>		</g>
+		<g id="shape4-13" transform="translate(31.1475,-71.7765)">
+			<title>Rectangle.4</title>
+			<desc>pylon Devices</desc>
+			<rect x="0" y="263.742" width="129.164" height="22.6772" class="st4"/>
+			<text x="39.68" y="277.48" class="st2">pylon Devices</text>		</g>
+		<g id="shape11-16" transform="translate(375.651,-11.3986)">
+			<title>Rectangle</title>
+			<desc>GenICam 2.3</desc>
+			<rect x="0" y="65.3169" width="63.7795" height="221.102" class="st3"/>
+			<text x="8.1" y="76.52" class="st2">GenICam 2.3</text>		</g>
+		<g id="shape20-19" transform="translate(0.06,-263.682)">
+			<title>Rectangle.20</title>
+			<desc>Application</desc>
+			<rect x="0" y="263.742" width="449.291" height="22.6772" class="st5"/>
+			<text x="205.08" y="277.48" class="st2">Application</text>		</g>
+		<g id="shape22-22" transform="translate(11.3986,-167.304)">
+			<title>Rectangle.22</title>
+			<desc>API Extensions for pylon 3.0</desc>
+			<rect x="0" y="221.222" width="291.969" height="65.1969" class="st3"/>
+			<text x="95.73" y="232.42" class="st2">API Extensions for pylon 3.0</text>		</g>
+		<g id="shape14-25" transform="translate(21.3198,-178.845)">
+			<title>Rectangle.14</title>
+			<desc>Instant Camera Classes Instant Camera Array Classes</desc>
+			<rect x="0" y="251.189" width="148.819" height="35.2306" class="st6"/>
+			<text x="31.73" y="266.4" class="st2">Instant Camera Classes <tspan x="21.06" dy="1.2em" class="st7">Instant Camera Array Classes</tspan></text>		</g>
+		<g id="shape23-29" transform="translate(174.391,-178.845)">
+			<title>Rectangle.23</title>
+			<desc>Image Handling Support (Image Format Converter etc.)</desc>
+			<rect x="0" y="251.189" width="117.921" height="35.2306" class="st6"/>
+			<text x="15.82" y="266.4" class="st2">Image Handling Support <tspan x="5.17" dy="1.2em" class="st7">(</tspan>Image Format Converter etc.)</text>		</g>
+		<g id="group5-33" transform="translate(11.3986,-11.3986)">
+			<title>Tabelle.5</title>
+		</g>
+		<g id="shape13-34" transform="translate(296.847,-21.3198)">
+			<title>Rectangle.13</title>
+			<desc>Transport Layers (GigE, IIDC 1394…)</desc>
+			<rect x="0" y="213.002" width="64.6299" height="73.4173" class="st6"/>
+			<text x="15.2" y="237.71" class="st2">Transport <tspan x="20.31" dy="1.2em" class="st7">Layers </tspan><tspan x="11.87"
+						dy="1.2em" class="st7">(</tspan>GigE, IIDC <tspan x="18.08" dy="1.2em" class="st7">1394</tspan>…)</text>		</g>
+		<g id="shape15-40" transform="translate(174.674,-99.2726)">
+			<title>Rectangle.15</title>
+			<desc>Deprecated Pixel Format Converters</desc>
+			<path d="M0 286.42 L118.06 286.42 L118.06 246.73 L0 246.73 L0 286.42 Z" class="st8"/>
+			<text x="38.35" y="264.18" class="st2">Deprecated <tspan x="15.91" dy="1.2em" class="st7">Pixel Format Converters</tspan></text>		</g>
+		<g id="shape16-44" transform="translate(296.847,-99.2726)">
+			<title>Rectangle.16</title>
+			<desc>Transport Layer Factory</desc>
+			<rect x="0" y="246.734" width="64.6299" height="39.685" class="st6"/>
+			<text x="4.08" y="264.18" class="st2">Transport Layer <tspan x="18.98" dy="1.2em" class="st7">Factory</tspan></text>		</g>
+		<g id="shape18-48" transform="translate(31.2411,-31.3828)">
+			<title>Rectangle.18</title>
+			<desc>Stream Grabber Event Grabber Chunk Parser</desc>
+			<rect x="0" y="249.852" width="128.976" height="36.5669" class="st4"/>
+			<text x="35.81" y="260.94" class="st2">Stream Grabber <tspan x="38.47" dy="1.2em" class="st7">Event Grabber </tspan><tspan
+						x="40.03" dy="1.2em" class="st7">Chunk Parser</tspan></text>		</g>
+		<g id="shape29-53" transform="translate(384.154,-65.2569)">
+			<title>Rectangle.29</title>
+			<desc>GenApi</desc>
+			<rect x="0" y="137.6" width="46.7717" height="148.819" class="st9"/>
+			<text x="10.04" y="214.41" class="st2">GenApi</text>		</g>
+		<g id="shape32-56" transform="translate(384.154,-21.3198)">
+			<title>Rectangle.32</title>
+			<desc>GcBase</desc>
+			<rect x="0" y="247.018" width="46.7717" height="39.4016" class="st9"/>
+			<text x="9.16" y="269.12" class="st2">GcBase</text>		</g>
+	</g>
+</svg>

@@ -1,0 +1,14 @@
+#!/bin/bash
+
+SISODIR5_BIN=$(readlink -f $(dirname "${BASH_SOURCE[0]}"))
+pushd $SISODIR5_BIN
+
+export SISODIR5="${SISODIR5_BIN}/.."
+export SISODIR5_32="${SISODIR5_BIN}/.."
+export SISODIR5_64="${SISODIR5_BIN}/.."
+
+export LD_LIBRARY_PATH="${SISODIR5}/bin/impl:${LD_LIBRARY_PATH}"
+
+"${SISODIR5}/bin/impl/GrabberFirmwareUpdater" "$@"
+
+popd

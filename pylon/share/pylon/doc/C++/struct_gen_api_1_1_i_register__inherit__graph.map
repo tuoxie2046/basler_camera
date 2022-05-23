@@ -1,0 +1,6 @@
+<map id="GenApi::IRegister" name="GenApi::IRegister">
+<area shape="rect" id="node4" href="$struct_pylon_1_1_i_register_ex.html" title="Extends the GenApi::IRegister interface with convenience methods. " alt="" coords="26,229,159,256"/>
+<area shape="rect" id="node2" href="$struct_gen_api_1_1_i_value.html" title="Interface for value properties. " alt="" coords="35,80,150,107"/>
+<area shape="rect" id="node3" href="$struct_gen_api_1_1_i_base.html" title="Base interface common to all nodes. " alt="" coords="37,5,148,32"/>
+<area shape="rect" id="node5" href="$class_pylon_1_1_c_array_parameter.html" title="CArrayParameter class used to simplify access to GenApi parameters. " alt="" coords="5,304,180,331"/>
+</map>
